@@ -1,1 +1,25 @@
-
+body{
+    background-color: #538df8;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #090b86;
+}
+.kartu-profil{
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(177, 222, 252);
+    border-radius: 15px;
+    box-shadow: 5px 10px 10px rgba(0,0,0,0.75);
+    text-align: center;
+}
+.kartu-profil img{
+    width: 300px;
+    cursor: crosshair;
+    vertical-align: bottom;
+}
+.kartu-profil button{
+    border-style: double;
+    border-radius: 15px;
+    height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
